@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus Navigator",
+  "description": "AI-powered indoor navigation system with visual localization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
